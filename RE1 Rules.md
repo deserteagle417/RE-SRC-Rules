@@ -8,6 +8,8 @@ Main Rules (duplicate these in each category because people don’t read them!!!
 
 * Turbo/Macro are not allowed.
 
+* Mods are not allowed to be used (e.g., costume mods, soundtrack mods).
+
 * NG+ is not allowed (see category extensions) 
   * https://www.speedrun.com/re1ce
 
@@ -22,6 +24,8 @@ Main Rules (duplicate these in each category because people don’t read them!!!
 * Run must start at the main menu (Title Screen).
 
 * Playing music over the game is not allowed.
+
+* Mods are not allowed to be used (e.g., costume mods, soundtrack mods).
 
 * Must be played on PC Japanese MediaKite version, or a reprint with REbirth patch (recommended) or 1.7/1.8 patch 
   * https://www.speedrun.com/residentevil/resources
