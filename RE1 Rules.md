@@ -285,4 +285,6 @@ _______________________________________
 
 * Complete the Battle Game from start to finish.
 
+* PAL version: use the time that the timer freezes at upon killing Tyrant when the screen reads "STAGE CLEAR".
+
 —----------------------------------------------
